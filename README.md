@@ -19,3 +19,6 @@
 * The accuracy of model are too low due to the following reasons:
   * Insufficient number of observations. We need to gain more data by doing survey again.
   * Most of features do not have a statistical power due to their category of each classes tend to have same mean and similar distribution, even though there are no outliers present. To address this issue, we need to conduct hypothesis testing and resampling data.
+
+
+### [Assignment 2: Cancer Death Rate](https://github.com/irfan-fadhlurrahman/practice-lab/blob/main/dphi-ml-bootcamp/assignment-2/assignment-2-cancer.ipynb)
