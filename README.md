@@ -1,5 +1,5 @@
 ## Machine Learning Bootcamp
-### [Assignment 1: Taxpayer's Political Party]()
+### [Assignment 1: Taxpayer's Political Party](https://github.com/irfan-fadhlurrahman/practice-lab/blob/main/dphi-ml-bootcamp/assignment-1/assignment-1-taxpayer.ipynb)
 * The objective of this project is to predict the taxpayer political party based on their attributes. This is a multi-class classification task.
 * The target variable is balance with each count around 250 and have three classes such as Democrat, Republican, and Independent.
 * The dataset features have a less statistical predictive power due to each feature category per target class have same mean and similar distribution.
