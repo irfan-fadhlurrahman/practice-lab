@@ -26,7 +26,7 @@
 * The target variable, cancer death rate, is near-to-normal distributed with slightly long tail in right-side and peak around 175-190.
 * Correlation between all numerical features and target variable are in the range between -0.48 to 0.47.
 * Collinear variables exist in this dataset as shown on the correlation heatmap of numerical variables.
-* There are 27 pairs of highly correlated variables with set threshold 0.8.
+* There are 14 pairs of highly correlated variables with set threshold 0.8.
 * The features and target are preprocessed before modelling phase.
     * Drop categorical variables and features that have missing values.
     * Transform all numerical variables by using log-transformer
