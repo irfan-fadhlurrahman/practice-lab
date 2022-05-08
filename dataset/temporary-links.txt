@@ -9,3 +9,32 @@ https://github.com/RihabFekii/deploying-machine-learning-models/blob/master/sect
 
 Portofolio
 https://drive.google.com/drive/folders/1nZE4QSUxxdQ6yJ8NQVgtSz_BxqNUwj-q
+
+
+Old
+
+References:
+Markdown guide
+* https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=Lhfnlq1Surtk
+
+Data preparation
+* Data prep and feature engineering: https://developers.google.com/machine-learning/data-prep
+* Intro to modelling (practice from Google): https://colab.research.google.com/github/google/eng-edu/blob/main/ml/fe/exercises/intro_to_modeling.ipynb?utm_source=ss-data-prep&utm_campaign=colab-external&utm_medium=referral&utm_content=intro_to_modeling
+* Resampling methods: https://imbalanced-learn.org/stable/combine.html
+
+Modelling
+* Minimize data leakage: [Source](https://www.section.io/engineering-education/data-leakage/#:~:text=Although%20not%20all%20models%20need,only%20on%20the%20training%20set.)
+
+Scratch
+* Scratch code: https://github.com/irfan-fadhlurrahman/learning-notebooks/blob/main/scratch_code.py
+
+Previous Project
+* Purchaser Intention: https://colab.research.google.com/drive/1ztaRWtAB6NK9By5uE-FIrAc479SMMybQ#scrollTo=yoBvUbNBPG0B
+
+Data source
+* Dataset: https://www.kaggle.com/reverie5/av-janata-hack-payment-default-prediction
+
+Deployment
+* Create Linux VM: https://www.windowscentral.com/how-run-linux-distros-windows-10-using-hyper-v
+* Heroku: https://dashboard.heroku.com/apps
+* Example of Heroku: https://github.com/imfdlh/telco-customer-churn | https://towardsdatascience.com/nlp-and-streamlit-on-heroku-5ebb56d6a57f
