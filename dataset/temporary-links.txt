@@ -1,0 +1,8 @@
+Coding practice
+https://github.com/ThinamXx/ML..Interview..Preparation
+
+Python practice
+https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna (ixxx43@xxxxxx.com)
+
+Deployment
+https://github.com/RihabFekii/deploying-machine-learning-models/blob/master/section-04-research-and-development/01-machine-learning-pipeline-data-analysis.ipynb
