@@ -6,3 +6,6 @@ https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna (ixxx43@xxx
 
 Deployment
 https://github.com/RihabFekii/deploying-machine-learning-models/blob/master/section-04-research-and-development/01-machine-learning-pipeline-data-analysis.ipynb
+
+Portofolio
+https://drive.google.com/drive/folders/1nZE4QSUxxdQ6yJ8NQVgtSz_BxqNUwj-q
