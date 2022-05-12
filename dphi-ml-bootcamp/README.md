@@ -38,4 +38,4 @@
     * The MSE between 10 and 27 features have a small difference (around 11).
 
 
-### [Assignment 3: Travel Insurance Claim](https://github.com/irfan-fadhlurrahman/practice-lab/blob/main/dphi-ml-bootcamp/cancer-death-rate/assignment-2-cancer.ipynb)
+### [Assignment 3: Travel Insurance Claim](https://github.com/irfan-fadhlurrahman/practice-lab/blob/main/dphi-ml-bootcamp/travel-insurance-claim/src/notebook.ipynb)
